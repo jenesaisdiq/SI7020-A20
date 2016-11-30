@@ -1,5 +1,5 @@
 // This #include statement was automatically added by the Particle IDE.
-#include "SI7020-A20_CE/SI7020-A20.h"
+#include "SI7020-A20_CE/SI7020-A20_CE.h"
 
 SI7020_A20 tempSensor;
 
