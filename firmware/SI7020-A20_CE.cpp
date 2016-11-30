@@ -1,4 +1,4 @@
-#include "SI7020-A20.h"
+#include "SI7020-A20_CE.h"
 
 
 double SI7020_A20::temperatureC(){
